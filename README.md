@@ -14,4 +14,4 @@ Since this is a theoratical explaination and collected from various sources from
 
 Github: [https://github.com/topics/plagiarism-checker](https://github.com/topics/plagiarism-checker)
 
-
+*Feel free to add more relavent algorithms related to plagiarism detection in text based documents*
