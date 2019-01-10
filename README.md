@@ -5,8 +5,11 @@ Since this is a theoratical explaination and collected from various sources from
 
 **Useful articles**:
 -[Plagiarism checkers for research papers](https://plagiarism.tech/best-plagiarism-checker-for-research-papers/)
+
 -[Affinity analysis](https://en.wikipedia.org/wiki/Affinity_analysis)
+
 -[Turnitin alternatives](https://writinghelp.net/turnitin-free-download-best-plagiarism-checker-for-students/)
+
 -[Fingerprinting in plagiarism detection](https://en.wikipedia.org/wiki/Plagiarism_detection#Fingerprinting)
 
 Github: [https://github.com/topics/plagiarism-checker](https://github.com/topics/plagiarism-checker)
