@@ -4,9 +4,10 @@ Plagiarism detection in text documents can be an interesting area to work upon. 
 Since this is a theoratical explaination and collected from various sources from the internet, I don't have any copyright over the content, words and ideas discussed in the sagment. 
 
 **Useful articles**:
--[Plagiarism checkers for research papers](https://plagiarism.tech/best-plagiarism-checker-for-research-papers/)
 
--[Affinity analysis](https://en.wikipedia.org/wiki/Affinity_analysis)
+-[Similarity analysis](http://ccis2k.org/iajit/PDF/vol.9,no.4/2796-4.pdf)
+
+-[Plagiarism checkers for research papers](https://plagiarism.tech/best-plagiarism-checker-for-research-papers/)
 
 -[Turnitin alternatives](https://writinghelp.net/turnitin-free-download-best-plagiarism-checker-for-students/)
 
