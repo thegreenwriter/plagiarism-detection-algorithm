@@ -1,0 +1,7 @@
+Fingerprinting is one of the most widely plagiarism detection algorithm for digital text based content.
+One of the popular use case of Fingerprinting is "MOSS" which is an acronym for Measure of software similarity.
+
+This method forms representative digests of documents by selecting a set of multiple substrings (n-grams) from them. The sets represent the fingerprints and their elements are called minutiae. A suspicious document is checked for plagiarism by computing its fingerprint and querying minutiae with a precomputed index of fingerprints for all documents of a reference collection. Minutiae matching with those of other documents indicate shared text segments and suggest potential plagiarism if they exceed a chosen similarity threshold. Computational resources and time are limiting factors to fingerprinting, which is why this method typically only compares a subset of minutiae to speed up the computation and allow for checks in very large collection, such as the Internet.
+
+Further research can be seen here: (http://ilpubs.stanford.edu:8090/112/1/1995-43.pdf)
+
